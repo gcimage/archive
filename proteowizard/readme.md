@@ -1,1 +1,1 @@
-Before download any archived version, please check the license and current version at http://proteowizard.sourceforge.net/
+Before download any archived version, please check current version and agree to the license at http://proteowizard.sourceforge.net/
