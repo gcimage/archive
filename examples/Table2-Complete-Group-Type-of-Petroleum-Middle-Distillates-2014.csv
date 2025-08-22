@@ -1,0 +1,13 @@
+substance classes,mass fragments,possible further subdivision
+alkanes,"43 , 57 , 71 , 85 , 99",n-/iso-alkanes
+cycloalkanes,"41 , 55 , 69 , 83 , 97",cyclopentanes/ -hexanes
+bicyclic alkanes,"39 , 53 , 67 , 81 , 95 , 109 , 123",
+polycyclic alkanes,"51 , 65 , 79 , 93 , 107 , 121 , 135 , 149 , 163","tricyclic alkanes, adamantanes, hopanes, steranes"
+monoaromatics,"91 , 92 , 104 , 105 , 115 , 116 , 117 , 118 , 119 , 129 , 130 , 131 , 132 , 133 , 143 , 144 , 145 , 146 , 147 , 157 , 158 , 159 , 171 , 172 , 173 , 185 , 186 , 187 , 199 , 200 , 201 , 207 , 214","alkyl-benzenes, indanes, teralines, hydrated polyaromatics"
+diaromatics,"115 , 127 , 128 , 139 , 141 , 142 , 143 , 152 , 153 , 154 , 155 , 156 , 157 , 165 , 166 , 167 , 168 , 169 , 170 , 179 , 180 , 181 , 182 , 183 , 184 , 186 , 193 , 195 , 196 , 197 , 198 , 208 , 210 , 211 , 212 , 225 , 226","naphthalenes, biphenyls, fluorenes, acenaphthenes, diphenylmethanes, hydrated polyaromatics"
+polyaromatics,"178 , 189 , 191 , 192 , 202 , 203 , 204 , 205 , 206 , 215 , 216 , 219 , 220 , 230","phenanthrenes, anthracenes, pyrenes, fluoranthenes"
+FAME,,
+saturated,"41 , 43 , 55 , 74 , 87",by carbon number
+monounsaturated,"41 , 43 , 55 , 69 , 74",
+linolic acid methyl ester,"41 , 55 , 67 , 79 , 81 , 95",
+linolenic acid methyl ester,"41 , 55 , 67 , 79 , 93",
